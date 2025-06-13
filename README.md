@@ -40,21 +40,18 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
       <a href="https://github.com/MatheusSangazu/checkFacil">Repositório</a>
     </td>
     <td width="50%" valign="top">
-      <h3>BookWise API (API de Gestão de Livros)</h3>
-      <p>Projeto-espelho para demonstrar a aplicação dos mesmos conceitos do CheckFacil no ecossistema .NET. O foco é construir uma API performática seguindo os princípios de Clean Architecture e pronta para ser conteinerizada.</p>
-      <strong>Status:</strong> Em Desenvolvimento 🏗️
+      <h3>Xadrez no Console (OOP com C#)</h3>
+      <p>Projeto focado em demonstrar sólidos conhecimentos de Programação Orientada a Objetos. A aplicação modela todas as regras do xadrez, como movimentos especiais (roque, en passant) e validações de xeque/xeque-mate no console.</p>
+      <strong>Status:</strong> Concluído ✅
       <br>
       <br>
       <strong>Tecnologias:</strong>
       <div>
         <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
         <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-        <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net-core&logoColor=white" />
-        <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </div>
       <br>
-      <a href="">Repositório</a>
+      <a href="https://github.com/MatheusSangazu/Xadrez-Console">Repositório</a>
     </td>
   </tr>
 </table>
