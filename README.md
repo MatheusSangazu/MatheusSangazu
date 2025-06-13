@@ -1,17 +1,17 @@
 # Olá, eu sou o Matheus Henrique 👋
 
-<a href="https://www.linkedin.com/in/matheus-henrique-da-silva-alves-a96a92199/" target="_blank">
+<a href="https://www.linkedin.com/in/mths-alves/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matheus_Henrique-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-## Desenvolvedor Backend Poliglota | .NET & Node.js
+## Desenvolvedor Backend | .NET & Node.js
 
 Sou um Desenvolvedor de Software focado em construir a espinha dorsal de aplicações digitais. Minha paixão é traduzir regras de negócio complexas em **APIs eficientes, escaláveis e seguras**, utilizando a melhor ferramenta para cada desafio.
 
 Com mais de 3 anos de experiência em **Growth Marketing e Automação**, desenvolvi uma perspectiva única sobre como a tecnologia impulsiona resultados. Eu não apenas construo software; eu construo soluções que resolvem problemas reais e se conectam a métricas de sucesso, desde o código até o **deploy em produção com Docker**.
 
 - 🔭 Atualmente aprofundando meus conhecimentos em **Arquitetura de Microsserviços** e otimização de **deployments com Docker**.
-- 🌱 Sou apaixonado por **Automação de Processos**, **Boas Práticas de CI/CD** e **Clean Architecture**.
+- 🌱 Sou apaixonado por **Automação de Processos**, **Boas Práticas de CI/CD** , **Clean Architecture** e **Resolução de problemas** .
 - 💬 Vamos conversar sobre como podemos construir um backend poderoso para sua ideia!
 
 ---
@@ -66,10 +66,10 @@ Estas são as ferramentas e tecnologias que utilizo para construir e entregar mi
 | :--- | :--- | :--- |
 | ![][c-sharp] | ![][mysql] | ![][git] |
 | ![][dotnet] | ![][sql-server] | ![][github] |
-| ![][node-js] | ![][mongodb] | ![][docker] |
-| ![][typescript] | | ![][linux] |
-| ![][asp-net-core] | | ![][postman] |
-| ![][sequelize] | | ![][vs-code] |
+| ![][node-js] | | ![][docker] |
+| ![][typescript] | | ![][postman] |
+| ![][asp-net-core] | | ![][vs-code] |
+| ![][sequelize] | | ![][visual-studio] |
 
 
 [c-sharp]: https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
