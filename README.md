@@ -8,9 +8,9 @@
 
 Sou um Desenvolvedor de Software focado em construir a espinha dorsal de aplicações digitais. Minha paixão é traduzir regras de negócio complexas em **APIs eficientes, escaláveis e seguras**, utilizando a melhor ferramenta para cada desafio.
 
-Com mais de 3 anos de experiência em **Growth Marketing e Automação**, desenvolvi uma perspectiva única sobre como a tecnologia impulsiona resultados. Eu não apenas construo software; eu construo soluções que resolvem problemas reais e se conectam a métricas de sucesso. Utilizo **.NET/C#** para sistemas robustos e de alta performance e **Node.js/TypeScript** para microsserviços e APIs ágeis.
+Com mais de 3 anos de experiência em **Growth Marketing e Automação**, desenvolvi uma perspectiva única sobre como a tecnologia impulsiona resultados. Eu não apenas construo software; eu construo soluções que resolvem problemas reais e se conectam a métricas de sucesso, desde o código até o **deploy em produção com Docker**.
 
-- 🔭 Atualmente aprofundando meus conhecimentos em **Arquitetura de Microsserviços** e **Cloud (Azure)**.
+- 🔭 Atualmente aprofundando meus conhecimentos em **Arquitetura de Microsserviços** e otimização de **deployments com Docker**.
 - 🌱 Sou apaixonado por **Automação de Processos**, **Boas Práticas de CI/CD** e **Clean Architecture**.
 - 💬 Vamos conversar sobre como podemos construir um backend poderoso para sua ideia!
 
@@ -24,7 +24,7 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
   <tr>
     <td width="50%" valign="top">
       <h3>Check Fácil (API para Gestão de Eventos)</h3>
-      <p>API RESTful robusta para um PWA de gestão de eventos, construída em um monorepo com Yarn Workspaces. A API gerencia toda a lógica de negócio, autenticação JWT, e integrações via webhooks (n8n).</p>
+      <p>API RESTful robusta para um PWA de gestão de eventos, construída em um monorepo com Yarn Workspaces. A API gerencia toda a lógica de negócio, autenticação JWT, e é conteinerizada com Docker para deploy em VPS.</p>
       <strong>Status:</strong> Em Desenvolvimento 🏗️
       <br>
       <br>
@@ -34,14 +34,14 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
         <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
         <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
         <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </div>
       <br>
       <a href="https://github.com/MatheusSangazu/checkFacil">Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>BookWise API (API de Gestão de Livros)</h3>
-      <p>Projeto-espelho para demonstrar a aplicação dos mesmos conceitos do CheckFacil no ecossistema .NET. O foco é construir uma API performática seguindo os princípios de Clean Architecture e TDD.</p>
+      <p>Projeto-espelho para demonstrar a aplicação dos mesmos conceitos do CheckFacil no ecossistema .NET. O foco é construir uma API performática seguindo os princípios de Clean Architecture e pronta para ser conteinerizada.</p>
       <strong>Status:</strong> Em Desenvolvimento 🏗️
       <br>
       <br>
@@ -51,7 +51,7 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
         <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
         <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net-core&logoColor=white" />
         <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-        <img alt="xUnit" src="https://img.shields.io/badge/-xUnit-172836?style=for-the-badge&logo=xunit&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </div>
       <br>
       <a href="">Repositório</a>
@@ -65,12 +65,12 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
 
 Estas são as ferramentas e tecnologias que utilizo para construir e entregar minhas soluções.
 
-| Back-End (.NET & Node.js) | Bancos de Dados | Ferramentas, Cloud & DevOps |
+| Back-End (.NET & Node.js) | Bancos de Dados | Ferramentas, Deploy & DevOps |
 | :--- | :--- | :--- |
 | ![][c-sharp] | ![][mysql] | ![][git] |
 | ![][dotnet] | ![][sql-server] | ![][github] |
 | ![][node-js] | ![][mongodb] | ![][docker] |
-| ![][typescript] | | ![][azure] |
+| ![][typescript] | | ![][linux] |
 | ![][asp-net-core] | | ![][postman] |
 | ![][sequelize] | | ![][vs-code] |
 
@@ -87,7 +87,7 @@ Estas são as ferramentas e tecnologias que utilizo para construir e entregar mi
 [git]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [github]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 [docker]: https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[azure]: https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white
+[linux]: https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [postman]: https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [vs-code]: https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
