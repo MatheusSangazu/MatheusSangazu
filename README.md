@@ -67,7 +67,7 @@ Estas são as ferramentas e tecnologias que utilizo para construir e entregar mi
 | ![][c-sharp] | ![][mysql] | ![][git] |
 | ![][dotnet] | ![][sql-server] | ![][github] |
 | ![][node-js] | | ![][docker] |
-| ![][typescript] | | ![][postman] |
+| | | ![][postman] |
 | ![][asp-net-core] | | ![][vs-code] |
 | ![][sequelize] | | ![][visual-studio] |
 
