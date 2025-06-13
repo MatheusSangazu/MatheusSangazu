@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Henrique 👋
 
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/matheus-henrique-da-silva-alves-a96a92199/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matheus_Henrique-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -37,7 +37,7 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
         <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
       </div>
       <br>
-      <a href="">Repositório</a>
+      <a href="https://github.com/MatheusSangazu/checkFacil">Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>BookWise API (API de Gestão de Livros)</h3>
@@ -95,4 +95,4 @@ Estas são as ferramentas e tecnologias que utilizo para construir e entregar mi
 
 ## 📊 Minhas Estatísticas no GitHub
 
-[![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=radical&hide_border=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=MatheusSangazu&count_private=true&show_icons=true&theme=radical&hide_border=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
