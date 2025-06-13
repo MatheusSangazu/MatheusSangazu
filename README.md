@@ -40,7 +40,7 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
       <a href="https://github.com/MatheusSangazu/checkFacil">Repositório</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Xadrez no Console (OOP com C#)</h3>
+      <h3>Xadrez no Console (POO com C#)</h3>
       <p>Projeto focado em demonstrar sólidos conhecimentos de Programação Orientada a Objetos. A aplicação modela todas as regras do xadrez, como movimentos especiais (roque, en passant) e validações de xeque/xeque-mate no console.</p>
       <strong>Status:</strong> Concluído ✅
       <br>
