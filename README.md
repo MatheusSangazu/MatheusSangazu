@@ -67,9 +67,9 @@ Estas são as ferramentas e tecnologias que utilizo para construir e entregar mi
 | ![][c-sharp] | ![][mysql] | ![][git] |
 | ![][dotnet] | ![][sql-server] | ![][github] |
 | ![][node-js] | | ![][docker] |
-| | | ![][postman] |
-| ![][asp-net-core] | | ![][vs-code] |
-| ![][sequelize] | | ![][visual-studio] |
+| ![][asp-net-core] | | ![][postman] |
+| ![][sequelize] | | ![][vs-code] |
+|  | | ![][visual-studio] |
 
 
 [c-sharp]: https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
