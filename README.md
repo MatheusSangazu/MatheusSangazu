@@ -94,14 +94,15 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
 
 Estas são as ferramentas e tecnologias que utilizo para construir e entregar minhas soluções.
 
-| Back-End (.NET & Node.js) | Bancos de Dados | Ferramentas, Deploy & DevOps |
+| Back-End & Data | Bancos de Dados | Ferramentas, Deploy & DevOps |
 | :--- | :--- | :--- |
 | ![][c-sharp] | ![][mysql] | ![][git] |
 | ![][dotnet] | ![][sql-server] | ![][github] |
-| ![][node-js] | | ![][docker] |
-| ![][asp-net-core] | | ![][postman] |
-| ![][sequelize] | | ![][vs-code] |
-|  | | ![][visual-studio] |
+| ![][node-js] | ![][mongodb] | ![][docker] |
+| ![][typescript] | | ![][kubernetes] |
+| ![][python] | | ![][postman] |
+| ![][asp-net-core] | | ![][vs-code] |
+| ![][sequelize] | | ![][visual-studio] |
 
 
 [c-sharp]: https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
@@ -109,6 +110,7 @@ Estas são as ferramentas e tecnologias que utilizo para construir e entregar mi
 [asp-net-core]: https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net-core&logoColor=white
 [node-js]: https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [typescript]: https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[python]: https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [sequelize]: https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white
 [mysql]: https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 [sql-server]: https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
@@ -116,9 +118,11 @@ Estas são as ferramentas e tecnologias que utilizo para construir e entregar mi
 [git]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [github]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 [docker]: https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[kubernetes]: https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
 [postman]: https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [vs-code]: https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [visual-studio]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white
+
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
