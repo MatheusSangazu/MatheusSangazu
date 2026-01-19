@@ -26,8 +26,7 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
       <h3>Check Fácil (API para Gestão de Eventos)</h3>
       <p>API RESTful robusta para um PWA de gestão de eventos, construída em um monorepo com Yarn Workspaces. A API gerencia toda a lógica de negócio, autenticação JWT, e é conteinerizada com Docker para deploy em VPS.</p>
       <strong>Status:</strong> Em Desenvolvimento 🏗️
-      <br>
-      <br>
+      <br><br>
       <strong>Tecnologias:</strong>
       <div>
         <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -43,8 +42,7 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
       <h3>Xadrez no Console (POO com C#)</h3>
       <p>Projeto focado em demonstrar sólidos conhecimentos de Programação Orientada a Objetos. A aplicação modela todas as regras do xadrez, como movimentos especiais (roque, en passant) e validações de xeque/xeque-mate no console.</p>
       <strong>Status:</strong> Concluído ✅
-      <br>
-      <br>
+      <br><br>
       <strong>Tecnologias:</strong>
       <div>
         <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -52,6 +50,40 @@ Estes são os projetos que demonstram minha capacidade de aplicar diferentes tec
       </div>
       <br>
       <a href="https://github.com/MatheusSangazu/Xadrez-Console">Repositório</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Growth Ads Data Pipeline</h3>
+      <p>Middleware ETL para extração e armazenamento de métricas do Meta Ads. A solução orquestra a coleta de dados via API, persiste em MySQL e alimenta dashboards de BI, rodando em ambiente Kubernetes (K3s) com automação via n8n.</p>
+      <strong>Status:</strong> Em Produção 🚀
+      <br><br>
+      <strong>Tecnologias:</strong>
+      <div>
+        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </div>
+      <br>
+      <a href="https://github.com/MatheusSangazu/ads-performance-api">Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Formatador de Contatos (BotConversa)</h3>
+      <p>Ferramenta visual para higienização de leads. Realiza tratamento inteligente de telefones (DDI/DDD), segmentação de nomes e criação de lotes para importação segura em ferramentas de disparo, evitando bloqueios.</p>
+      <strong>Status:</strong> Concluído ✅
+      <br><br>
+      <strong>Tecnologias:</strong>
+      <div>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+        <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </div>
+      <br>
+      <a href="https://github.com/MatheusSangazu/formatador">Repositório</a>
     </td>
   </tr>
 </table>
