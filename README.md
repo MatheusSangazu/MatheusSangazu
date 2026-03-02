@@ -127,4 +127,4 @@ Estas são as ferramentas e tecnologias que utilizo para construir e entregar mi
 
 ## 📊 Minhas Estatísticas no GitHub
 
-[![Estatísticas do GitHub de Matheus]([https://github-readme-stats.vercel.app/api?username=MatheusSangazu&count_private=true&show_icons=true&theme=radical&hide_border=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-fast.vercel.app/api?username=MatheusSangazu&count_private=true&show_icons=true&theme=radical&hide_border=true&card_width=500))
+[![Estatísticas do GitHub de Matheus](https://github-readme-stats-fast.vercel.app/api?username=MatheusSangazu&show_icons=true&theme=radical&hide_border=true&card_width=500&v=1)](https://github.com/anuraghazra/github-readme-stats)
