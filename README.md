@@ -152,9 +152,10 @@ Atuo desde 2021 transformando regras de negócio em motores eficientes — desde
 
 ### 🛠️ Stack de Tecnologias
 
-<table width="100%">
+<div align="center">
+<table>
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
       <h4>Core Development</h4>
       <p>
         <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /><br>
@@ -176,7 +177,7 @@ Atuo desde 2021 transformando regras de negócio em motores eficientes — desde
         <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
       <h4>Infrastructure & DevOps</h4>
       <p>
         <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
@@ -188,6 +189,7 @@ Atuo desde 2021 transformando regras de negócio em motores eficientes — desde
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
