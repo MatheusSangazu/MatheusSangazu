@@ -11,11 +11,13 @@
 </a>
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Matheus+Henrique;Full+Stack+Developer;Arquitetura+de+Sistemas;Engenharia+de+Dados" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Matheus+Henrique;Full+Stack+Developer;Arquitetura+de+Sistemas;Engenharia+de+Dados" alt="Typing SVG" />
+</p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=MatheusSangazu&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatheusSangazu&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
