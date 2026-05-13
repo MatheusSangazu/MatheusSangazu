@@ -1,5 +1,6 @@
-# Matheus Henrique da Silva Alves
+<div align="center">
 
+<!-- Typing SVG -->
 <a href="https://matheus.forjacorp.com/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-matheus.forjacorp.com-FF6B00?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
@@ -9,22 +10,40 @@
 <a href="mailto:matheussalvespro@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-matheussalvespro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Matheus+Henrique;Full+Stack+Developer;Arquitetura+de+Sistemas;Engenharia+de+Dados" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MatheusSangazu&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
 
 ---
 
-## Full Stack Developer
+### 👨‍💻 Sobre Mim
 
 Desenvolvedor Full Stack com foco em **arquitetura de sistemas** e **engenharia de dados**. Construo APIs robustas, integrações complexas e infraestruturas escaláveis que fazem produtos digitais funcionarem com segurança e alta performance.
 
 Atuo desde 2021 transformando regras de negócio em motores eficientes — desde APIs dedicadas com Node.js até pipelines de dados com Python, passando por agentes de IA conversacional e sistemas distribuídos conteinerizados com Docker.
 
-- 🔭 Atualmente: **Desenvolvedor Full Stack na 4Growthbr** — APIs Node.js, agentes de IA no WhatsApp com Evolution API, infraestrutura Docker em VPS e plugins WordPress
-- 🌱 Aprofundando em **Arquitetura de Microsserviços**, **Clean Architecture** e **CI/CD com GitHub Actions + Coolify**
-- 💬 Vamos conversar sobre **sistemas distribuídos**, **automação inteligente** e **código que escala negócios**
+```typescript
+const matheus = {
+  location: "Sergipe, Brasil",
+  role: "Full Stack Developer @ 4Growthbr",
+  experience: "since 2021",
+  currentlyLearning: ["Microservices Architecture", "Clean Architecture", "CI/CD with Coolify"],
+  askMeAbout: ["Distributed Systems", "API Design", "Intelligent Automation"],
+  funFact: "I build financial AI agents that read boletos via OCR on WhatsApp 🤖"
+};
+```
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusSangazu&theme=radical&hide_border=true&ring=FF6B00&fire=FF6B00&currLabel=FF6B00" alt="GitHub Streak" />
 
 ---
 
-## Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 <table width="100%">
   <tr>
@@ -110,57 +129,109 @@ Atuo desde 2021 transformando regras de negócio em motores eficientes — desde
       <a href="https://github.com/LAIHC-org/brazil.clihc2026">🔗 Repositório</a> · <a href="https://clihc2026.laihc.org/pt/">🌐 Live</a>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Ultimate Post Type — WordPress Plugin</h3>
+      <p>Plugin WordPress para imobiliárias com painel front-end interativo. CRUD de imóveis sem a interface nativa do WordPress, galeria de mídia, filtros avançados e importação automática diária via XML de sistemas externos.</p>
+      <strong>Status:</strong> Concluído ✅
+      <br><br>
+      <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/Pdroinho/Ultimate-Post-Type">🔗 Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♟️ Xadrez Console — POO com C#</h3>
+      <p>Projeto focado em sólidos conhecimentos de Programação Orientada a Objetos. Modela todas as regras do xadrez — movimentos especiais (roque, en passant), xeque e xeque-mate no console.</p>
+      <strong>Status:</strong> Concluído ✅
+      <br><br>
+      <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/MatheusSangazu/Xadrez-Console">🔗 Repositório</a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## Stack de Tecnologias
+### 🛠️ Stack de Tecnologias
 
-### Core Development
-![][c-sharp] ![][dotnet] ![][node-js] ![][typescript] ![][python] ![][php] ![][adonisjs] ![][react]
-
-### Data & Storage
-![][mysql] ![][sql-server] ![][redis] ![][prisma]
-
-### Infrastructure & DevOps
-![][docker] ![][kubernetes] ![][coolify] ![][github-actions] ![][git]
-
-### Tools & Integration
-![][postman] ![][n8n] ![][vs-code] ![][wordpress]
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Core Development</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Data & Storage</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Infrastructure & DevOps</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-Coolify-2FBB5A?style=flat-square&logo=coolify&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=MatheusSangazu&show_icons=true&theme=radical&hide_border=true&card_width=500&v=1" />
   <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatheusSangazu&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=320" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusSangazu&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusSangazu&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusSangazu/MatheusSangazu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusSangazu/MatheusSangazu/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MatheusSangazu/MatheusSangazu/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 ---
 
 <div align="center">
-  <sub>Built with focus, caffeine and <a href="https://matheus.forjacorp.com/">matheus.forjacorp.com</a></sub>
-</div>
 
-[c-sharp]: https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white
-[dotnet]: https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white
-[node-js]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-[typescript]: https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
-[python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
-[php]: https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white
-[adonisjs]: https://img.shields.io/badge/-AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white
-[react]: https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
-[mysql]: https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
-[sql-server]: https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white
-[redis]: https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white
-[prisma]: https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white
-[docker]: https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-[kubernetes]: https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white
-[coolify]: https://img.shields.io/badge/-Coolify-2FBB5A?style=flat-square&logo=coolify&logoColor=white
-[github-actions]: https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white
-[git]: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
-[postman]: https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
-[n8n]: https://img.shields.io/badge/-N8N-E64531?style=flat-square&logo=n8n&logoColor=white
-[vs-code]: https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white
-[wordpress]: https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white
+**"Código que escala negócios."**
+
+<a href="https://matheus.forjacorp.com/">
+  <img src="https://img.shields.io/badge/Portfolio-matheus.forjacorp.com-FF6B00?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
