@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Typing SVG -->
 <a href="https://matheus.forjacorp.com/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-matheus.forjacorp.com-FF6B00?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
@@ -28,16 +27,9 @@ Desenvolvedor Full Stack com foco em **arquitetura de sistemas** e **engenharia 
 
 Atuo desde 2021 transformando regras de negócio em motores eficientes — desde APIs dedicadas com Node.js até pipelines de dados com Python, passando por agentes de IA conversacional e sistemas distribuídos conteinerizados com Docker.
 
-```typescript
-const matheus = {
-  location: "Sergipe, Brasil",
-  role: "Full Stack Developer @ 4Growthbr",
-  experience: "since 2021",
-  currentlyLearning: ["Microservices Architecture", "Clean Architecture", "CI/CD with Coolify"],
-  askMeAbout: ["Distributed Systems", "API Design", "Intelligent Automation"],
-  funFact: "I build financial AI agents that read boletos via OCR on WhatsApp 🤖"
-};
-```
+- 🔭 Atualmente: **Desenvolvedor Full Stack na 4Growthbr** — APIs Node.js, agentes de IA no WhatsApp com Evolution API, infraestrutura Docker em VPS e plugins WordPress
+- 🌱 Aprofundando em **Arquitetura de Microsserviços**, **Clean Architecture** e **CI/CD com GitHub Actions + Coolify**
+- 💬 Vamos conversar sobre **sistemas distribuídos**, **automação inteligente** e **código que escala negócios**
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusSangazu&theme=radical&hide_border=true&ring=FF6B00&fire=FF6B00&currLabel=FF6B00" alt="GitHub Streak" />
 
@@ -199,30 +191,12 @@ const matheus = {
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=MatheusSangazu&show_icons=true&theme=radical&hide_border=true&card_width=500&v=1" />
   <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatheusSangazu&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=320" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusSangazu&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusSangazu&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusSangazu/MatheusSangazu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusSangazu/MatheusSangazu/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MatheusSangazu/MatheusSangazu/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 ---
 
